@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="left">
     <div id="badges">
     <a>
        <img src="https://img.shields.io/badge/Dmitrii Koryagin-blueviolet?style=for-the-badge&logo=none&logoColor=green" alt="None Badge"/>
@@ -23,7 +23,5 @@
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 </p>
 </h3>
-<a href="https://t.me/Fogonrog">
-      <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=darksiders&logoColor=white"/>
-    </a>
+
 
